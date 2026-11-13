@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual Environment
+venv/
+.env
+.venv/
+aipdd_env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Model Weights
+*.pt
+*.onnx
+*.h5
+
+# Logs
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
